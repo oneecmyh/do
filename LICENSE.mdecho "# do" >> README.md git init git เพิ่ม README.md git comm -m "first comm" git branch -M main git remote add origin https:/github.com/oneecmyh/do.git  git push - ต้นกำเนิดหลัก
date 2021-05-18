@@ -1,0 +1,7 @@
+echo "# do" >> README.md 
+git init 
+git เพิ่ม README.md 
+git 
+comm -m "first comm " git branch -M main 
+git remote add origin https://github.com/oneecmyh/do.git
+ git push - ต้นกำเนิดหลัก
